@@ -23,4 +23,6 @@ Consider an imp like a cleaner that watches after processes and makes sure they 
 Purpose
 -------
 
-I've noticed that I don't have a particular strength in deep sysinternals, something I need to remedy to grow in my Ops skills. The best way to grow is to build and create something that you're fully aware that you're weak in. In this case, low level Unix internals and some C code.
+I've noticed that I don't have a particular strength in deep sysinternals, something I need to remedy to grow in my Ops skills. The best way to grow is to build and create something that you're fully aware that you're weak in. In this case, low level Unix internals and some C code. 
+
+Actually, let's forego the C and see what we can do with Common LISP on this one.
